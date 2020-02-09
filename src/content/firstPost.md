@@ -1,7 +1,7 @@
 ---
 title: My First Post, Yo!
 author: Dave Jones
-date: Jan 14, 2003
+date: November 8, 2003
 ---
 
 # Welcome to my Blog

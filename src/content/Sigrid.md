@@ -1,7 +1,7 @@
 ---
 title: Sigrid
 author: Youssef Raabei
-date: February 8, 2020
+date: February 28, 2020
 ---
 
 # Sigrid
