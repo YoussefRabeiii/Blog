@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    height: 5em;
+    color: white;
+    padding: 1em;
+    font-size: 1.3em;
+    text-align: center;
+    background-color: navy;
+}

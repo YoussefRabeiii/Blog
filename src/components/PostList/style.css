@@ -1,0 +1,19 @@
+.postCard {
+    padding: 20px;
+    text-align: left;
+    margin-block-end: 20px;
+    border: 1px solid navy;
+    font-family: Helvetica, sans-serif;
+}
+    
+.title {
+    text-align: center;
+}
+
+h1 {
+    margin-block-end: 20px;
+}
+
+hr {
+    margin: 15px 0;
+}
