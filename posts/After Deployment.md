@@ -1,7 +1,7 @@
 ---
-title: deployed
-author: Youssef Raaaaaaabei
-date: November 8, 2016
+title: This post is published by the netlify cms
+author: Youssef Rabei
+date: 2020-02-09T22:00:00.000Z
 ---
 
 # After Deployment
