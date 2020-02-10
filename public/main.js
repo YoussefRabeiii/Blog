@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 
-const dirPath = path.join(__dirname, "../src/content");
+const dirPath = path.join(__dirname, "../src/posts");
 const dirPathPages = path.join(__dirname, "../src/pages/content");
 let postList = [];
 let pageList = [];
